@@ -1,5 +1,3 @@
--- cohort_analysis.sql
--- User cohort analysis using SQL
 
 ---------------------------------------------------
 -- Sample Table
